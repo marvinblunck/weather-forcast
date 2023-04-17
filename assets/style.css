@@ -1,0 +1,40 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+background: aliceblue;
+}
+
+.card{
+background: aqua;
+padding: 2em;
+border-radius: 35px;
+width: 100%;
+max-width: 420px;
+margin: 1em;
+}
+
+.search{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.search-bar{
+margin: 0.6em;
+border-radius: 55%;
+border: none;
+height: 2.0em;
+width: 20em;
+outline: none
+}
+button{
+border: none;
+outline: none;
+padding: 0.8em;
+border-radius: 18px;
+color: black;
+font-family: auto;
+font-size: 100%;
+}
