@@ -1,6 +1,3 @@
-// let weather ={
-//     "apiKey: 60da2449f3672fe8aa7716abe1ca815f"
-// }
 var button=document.querySelector("#search");
 var input= document.querySelector(".search-bar");
 function getWeather(){
@@ -26,8 +23,8 @@ function getWeather(){
     document.querySelector("#display-city").textContent=city
     })
 }
+//add an event listener to add get weather when you click search
 var displayCity=localStorage.getItem("city");
 document.querySelector("#display-city").textContent=displayCity
-//add an event listener to add get weather when you click search
 button.addEventListener("click", getWeather)
 
