@@ -1,7 +1,7 @@
 # Weather-Forecast
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
-In challenge five we were asked to create a simple weather app that would show the weather over the next 5 days. All you have to do is type in what city you would like to see the weather of and the api will make a call that will then display the weather of that city.
+In challenge six we were asked to create a simple weather app that would show the weather over the next 5 days. All you have to do is type in what city you would like to see the weather of and the api will make a call that will then display the weather of that city.
 ## Table of Contents
 1. [Install](#install)
 2. [Usage](#usage)
